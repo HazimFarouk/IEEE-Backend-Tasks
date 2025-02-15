@@ -1,0 +1,5 @@
+C:/images/image1.png
+C:/users/ mazen/website/js/app.js
+C:/users/mazen/footage/video.mp4
+C:/users/mazen/website /css/styles.css
+D:/memories/photo1.jpeg
